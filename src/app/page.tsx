@@ -177,7 +177,7 @@ export default function LandingPage() {
           <div className="md:col-span-2 bg-white p-8 rounded-lg flex gap-6 items-center">
             <img alt="Team member" className="w-32 h-32 rounded-full object-cover shadow-md" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBlYDpm3Wtm6UxUIEtsy31fD961P4yuQj7nppPrJkpRytCtMLRfDU-54KUnimzPGu_SSwQIyOtyB4AAPkjp1o7965HJeKw6QeULqXKkFvAr_YbVja94yhxLVfVgAHXkIQCuNeoJqvTnXvyOiI_DJmfB1_fGf6o2RRzDFkDgtOkiX5fVeDbCEepdIbUKXbMQ7c4sSDB-2PSfW-34Cv1wYUlg0iuQwHDi9d5beUlm31IYT1mzJm6HgK1Sgk29vY84WMsNtUIJSKeYkD7N" />
             <div className="text-left">
-              <h4 className="font-bold text-lg">Nguyễn Văn A</h4>
+              <h4 className="font-bold text-lg">HuyPQ</h4>
               <p className="text-[#006d31] text-sm font-semibold mb-2">Giám đốc Trung tâm</p>
               <p className="text-xs text-zinc-600 leading-relaxed">Hơn 15 năm kinh nghiệm trong kiến trúc hệ thống tài chính.</p>
             </div>
