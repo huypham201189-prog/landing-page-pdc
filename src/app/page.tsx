@@ -1,4 +1,6 @@
 import React from 'react';
+import Chatbot from '@/components/Chatbot';
+
 
 export default function LandingPage() {
   return (
@@ -269,6 +271,7 @@ export default function LandingPage() {
           </p>
         </div>
       </footer>
+      <Chatbot />
     </main>
   );
 }
